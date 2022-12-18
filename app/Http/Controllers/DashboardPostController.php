@@ -57,8 +57,8 @@ class DashboardPostController extends Controller
             'body' => 'required'
             // setelah file max ukurannya menjadi kilobytes bukan string seperti title
         ]);
-
-        // jika images ada isinya atau true
+        //tes
+        // jika images ada isinya atau true 
         if ($request->file('image')) {
             $validatedData['image'] = $request->file('image')->store('post-images');
         }
