@@ -80,7 +80,6 @@ class DatabaseSeeder extends Seeder
         //     'excerpt' => 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo,est beatae! Fugit dolore ratione tempora deserunt.',
         //     'slug' => 'judul-ke-empat',
         //     'body' => 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, est beatae! Fugit dolore ratione tempora deserunt. Ea molestias, possimus dolorem, laudantium cumque dicta ullam placeat, repudiandae nostrum dolor consequatur optio aliquam doloremque! Quos eius, voluptatum natus maiores voluptatibus esse voluptate, fugiat adipisci repudiandae deserunt ab doloribus similique ipsum saepe veniam, tenetur quisquam assumenda quasi ducimus odit excepturi veritatis laboriosam. Aperiam consequuntur laudantium ipsa aut laborum corrupti quia modi quidem saepe unde ab molestias possimus minus, temporibus ducimus minima recusandae atque.']);                         
-
         }
 
 }
